@@ -59,7 +59,7 @@ My engagement model ensures transparency, agility, and measurable outcomes at ev
 
 I am always open to discussing new technology initiatives, enterprise solutions, or consulting opportunities. Let's build something great together.
 
-* 🌐 **Website:** [www.voxel-ai-lab.com](https://www.voxel-ai-lab.com)
+* 🌐 **Website:** [www.voxel-ai-lab.com](https://voxel-ai-lab.com)
 * 📧 **Email:** [hello@voxel-ai-lab.com](mailto:hello@voxel-ai-lab.com)
 * 🤝 **Services:** AI/ML | Full-Stack Dev | QA & Test Automation | Enterprise Solutions | Custom Infrastructure
 
