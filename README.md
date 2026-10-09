@@ -61,6 +61,7 @@ I am always open to discussing new technology initiatives, enterprise solutions,
 
 * 🌐 **Website:** [www.voxel-ai-lab.com](https://voxel-ai-lab.com)
 * 📧 **Email:** [hello@voxel-ai-lab.com](mailto:hello@voxel-ai-lab.com)
+* 📱 **Phone Number** [(214) 367-5764](tel:+12143675764)
 * 🤝 **Services:** AI/ML | Full-Stack Dev | QA & Test Automation | Enterprise Solutions | Custom Infrastructure
 
 ***
